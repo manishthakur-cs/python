@@ -1,0 +1,11 @@
+from typing  import List, Union ,tuple, dict
+
+n : int = 5
+
+name: str = "harry"
+
+
+def sum(a: int, b:int) ->int:
+    return a+b
+
+sum()
